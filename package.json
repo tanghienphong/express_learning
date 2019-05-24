@@ -1,7 +1,7 @@
 {
   "name": "express02",
   "version": "1.0.0",
-  "description": "",
+  "description": "Learning Express + NodeJs",
   "main": "index.js",
   "scripts": {
     "start": "nodemon www/index.js"
@@ -11,6 +11,16 @@
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.3",
-    "express": "^4.16.4"
-  }
+    "express": "^4.16.4",
+    "yarn": "^1.15.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanghienphong/express_learning.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tanghienphong/express_learning/issues"
+  },
+  "homepage": "https://github.com/tanghienphong/express_learning#readme",
+  "devDependencies": {}
 }
